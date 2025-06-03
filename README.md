@@ -1,6 +1,6 @@
 # Ghost-in-the-machine
 
-EMAIL ME BEFORE CLONING 
+EMAIL ME BEFORE CLONING NO REPOSTS
  
 This is a simple program that "haunts" your computer.
 WARNING: CONTAINS JUMPSCARES
